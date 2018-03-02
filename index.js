@@ -8,5 +8,7 @@ function multiplyTwoNums(num1, num2) {
   return num1 * num2;
 }
 
+function division() {}
+
 addTwoNumbers(1, 2);
 multiplyTwoNums(1,3);
